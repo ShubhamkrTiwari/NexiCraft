@@ -20,5 +20,13 @@ class CardView : AppCompatActivity() {
             startActivity(intent)
         }
 
+        val servicebtn: Button = findViewById(R.id.servicebtn)
+        servicebtn.setOnClickListener {
+              val intent = Intent(this, aboutus::class.java)
+            startActivity(intent)
+        }
+
+
+
     }
 }
