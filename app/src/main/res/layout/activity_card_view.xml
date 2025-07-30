@@ -22,7 +22,7 @@
         app:layout_constraintVertical_bias="0.719">
 
         <ImageView
-            android:id="@+id/imageView4"
+            android:id="@+id/services"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             app:srcCompat="@drawable/ourservices" />
@@ -41,7 +41,7 @@
         app:layout_constraintVertical_bias="0.174">
 
         <ImageView
-            android:id="@+id/imageView2"
+            android:id="@+id/aboutus"
             android:layout_width="134dp"
             android:layout_height="match_parent"
             app:srcCompat="@drawable/aboutus" />
