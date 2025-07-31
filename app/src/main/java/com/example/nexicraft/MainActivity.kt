@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         val intent = Intent(this, CardView::class.java)
             startActivity(intent)
             finish()
-        }, 2000)
+        }, 1500)
 
     }
 }
