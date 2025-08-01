@@ -13,6 +13,9 @@
         android:theme="@style/Theme.NexiCraft"
         tools:targetApi="31">
         <activity
+            android:name=".appdetails"
+            android:exported="false" />
+        <activity
             android:name=".ourservices"
             android:exported="false" />
         <activity
