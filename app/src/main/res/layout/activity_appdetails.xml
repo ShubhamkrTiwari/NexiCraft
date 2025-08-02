@@ -71,5 +71,19 @@
         app:layout_constraintVertical_bias="0.97"
         app:srcCompat="@drawable/premiumapppack" />
 
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="199dp"
+        android:layout_height="36dp"
+        android:backgroundTint="@color/black"
+        android:text="Continue"
+        android:textSize="9dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.438"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.663" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
