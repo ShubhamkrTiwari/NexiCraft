@@ -18,5 +18,11 @@ class ourservices : AppCompatActivity() {
             val intent = Intent(this, appdetails::class.java)
             startActivity(intent)
         }
+
+        val webdevbtn: Button = findViewById(R.id.webdevbtn)
+        webdevbtn.setOnClickListener {
+            val intent = Intent(this, webdetails::class.java)
+            startActivity(intent)
+        }
     }
 }
