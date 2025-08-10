@@ -44,18 +44,6 @@
         app:layout_constraintVertical_bias="0.192"
         app:srcCompat="@drawable/webadvinfo" />
 
-    <ImageView
-        android:id="@+id/imageView19"
-        android:layout_width="212dp"
-        android:layout_height="314dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.577"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.961"
-        app:srcCompat="@drawable/webpremiuminfo" />
-
     <Button
         android:id="@+id/button2"
         android:layout_width="175dp"
@@ -69,16 +57,4 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <Button
-        android:id="@+id/button3"
-        android:layout_width="201dp"
-        android:layout_height="27dp"
-        android:text="Order Now"
-        android:textSize="8dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.6"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.977" />
 </androidx.constraintlayout.widget.ConstraintLayout>
