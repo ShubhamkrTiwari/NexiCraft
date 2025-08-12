@@ -46,8 +46,8 @@
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="175dp"
-        android:layout_height="29dp"
+        android:layout_width="196dp"
+        android:layout_height="39dp"
         android:backgroundTint="@color/black"
         android:text="Order Now"
         android:textSize="8dp"
